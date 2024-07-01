@@ -5,15 +5,16 @@ SMS Spam Detection using Python
 This project is aimed at building a machine-learning model for detecting spam SMS messages. The model is trained on a dataset containing labelled examples of spam and non-spam (ham) messages. The goal is to create a robust and accurate classifier that can be used to identify and filter out spam messages.
 
 # Table of Contents
- 1. Installation
- 2. Usage
- 3. Dataset
- 4. Model Training
- 5. Evaluation
- 6. Results
- 7. Dependencies
- 8. Contributing
- 9. Installation
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [Dataset](#Dataset)
+4. [Model Training](#Model-Training)
+5. [Evaluation](#Evaluation)
+6. [Results](#Results)
+7. [Dependencies](#Dependencies)
+8. [Contributing](#contributing)
+9. [Installation](#Installation)
+10. [License](#license)
 
 # Installation
 To use this project, follow these steps:
