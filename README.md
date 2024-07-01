@@ -15,6 +15,13 @@ This project is aimed at building a machine-learning model for detecting spam SM
  8. Contributing
  9. Installation
 
+# Installation
+To use this project, follow these steps:
+
+Clone the repository:
+ git clone https://github.com/your-username/sms-spam-detection.git
+ cd sms-spam-detection
+
 # Install the required dependencies:
 
 bash
